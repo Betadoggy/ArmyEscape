@@ -6,7 +6,7 @@ CoalaEscape ROKA edition
 ## 게임 실행방법
 
 0. 해당 저장소를 Clone 혹은 다운로드 합니다.
-1. CoalaEscape를 실행합니다. 
+1. CoalaEscape.exe 를 실행합니다. 
 2. ARMY_escape.js 파일을 불러옵니다.
 3. 즐거운 게임 시작하세요
 
