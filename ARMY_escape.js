@@ -373,7 +373,7 @@ roompx.microwave.onClick = function(){
 roompx.redbutton.onClick = function(){
 	if (roompx.microwave.isClosed() && (roompx.sunel1.isHanded() || roompx.crispy1.isHanded() || roompx.combination1.isHanded() || roompx.gome1.isHanded()) )
 	{
-		playSound("microwave.wav")
+		// playSound("microwave.wav")
 		sleep(5000)
 		cookingcomplete = 1
 		printMessage("조리가 완료되었습니다")
